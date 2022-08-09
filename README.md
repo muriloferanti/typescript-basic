@@ -1,1 +1,1 @@
-# Lista de Tarefas basica utilizando TypeScript
+# Lista de Tarefas básica utilizando TypeScript
